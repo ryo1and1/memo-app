@@ -16,6 +16,9 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+@media screen and (min-width:320px){
+    /*　画面サイズが320pxからはここを読み込む　*/
+}
 @media screen and (min-width:480px){
     /*　画面サイズが480pxからはここを読み込む　*/
 }
